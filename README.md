@@ -4,7 +4,7 @@
 
 Здесь находится информация о моём учебном проекте.
 
-![Моё фото](<img width="204" height="192" alt="pr12" src="https://github.com/user-attachments/assets/bf8b3aa4-4ced-4339-af73-6f94c780629c" />)
+![Моё фото](pr12.jpeg)
 
 ## Описание проекта
 
